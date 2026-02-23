@@ -34,7 +34,6 @@ The App requests the following Android permissions, each for a specific purpose:
 | `POST_NOTIFICATIONS` | Sending reminders about daily testing goals |
 | `FOREGROUND_SERVICE` | Running the testing timer reliably in the background |
 | `RECEIVE_BOOT_COMPLETED` | Rescheduling notification alarms after device restart |
-| `SCHEDULE_EXACT_ALARM` / `USE_EXACT_ALARM` | Delivering notifications at precise times |
 | `VIBRATE` | Vibration feedback for notifications |
 | `ACCESS_NETWORK_STATE` | Checking network connectivity before syncing data |
 
@@ -118,3 +117,4 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 ---
 
 *This privacy policy was generated for the Mutual Testing Android application for Google Play Store submission.*
+
